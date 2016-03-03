@@ -1,0 +1,770 @@
+[2016/02/10 21:24:48] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/10 21:24:48] minidlna.c:355: warn: Creating new database at /home/elkoraco/.config/minidlna/cache/files.db
+[2016/02/10 21:24:48] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/10 21:24:48] scanner.c:726: warn: Scanning /home/elkoraco/Videos
+[2016/02/10 21:24:50] scanner.c:815: warn: Scanning /home/elkoraco/Videos finished (101 files)!
+[2016/02/10 21:24:50] playlist.c:125: warn: Parsing playlists...
+[2016/02/10 21:24:50] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/10 21:24:51] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:26:08] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:26:35] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:26:35] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:26:35] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:26:55] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:26:55] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:26:55] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 01:26:55] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 01:27:53] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:27:53] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:27:53] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:28:24] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:28:24] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:28:24] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 01:28:24] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 01:29:08] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:29:08] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:29:08] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:30:43] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:30:43] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:30:43] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 01:30:43] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 01:32:18] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:32:18] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:32:18] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:33:14] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:33:14] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:33:33] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:33:33] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:33:33] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:35:30] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:35:30] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:35:30] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 01:35:30] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 01:35:54] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 01:35:54] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 01:35:54] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 01:36:24] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 01:36:24] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 01:36:24] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 01:36:24] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 08:40:30] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 08:40:30] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 08:40:30] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 08:49:24] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 08:49:24] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 08:49:24] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 08:49:24] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 08:53:32] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 08:53:32] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 08:53:32] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 08:56:19] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 08:56:19] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 08:56:19] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 08:56:19] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 08:57:29] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 08:57:29] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 08:57:29] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [46] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/11 09:04:43] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/11 09:04:43] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 09:04:43] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/11 09:04:43] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 14:51:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/11 14:51:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 14:51:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/11 14:51:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 16:07:56] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/11 16:07:56] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 16:07:56] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/11 16:07:56] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 19:10:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/11 19:10:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 19:10:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/11 19:10:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/11 19:46:03] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:05:06] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:08:05] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:20:05] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:22:16] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:25:56] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:29:07] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 20:31:12] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 21:05:44] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 21:35:26] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 22:34:00] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/11 22:54:24] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/11 22:54:24] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/11 22:54:24] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/11 22:54:24] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/11 22:54:43] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/11 22:54:43] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/11 22:54:43] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 00:32:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 00:32:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 00:32:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 00:32:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 06:43:00] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/12 07:05:53] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/12 08:39:59] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/12 08:41:52] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/12 08:51:09] upnphttp.c:1052: warn: HTTP Connection closed unexpectedly
+[2016/02/12 09:21:27] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 09:21:27] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 09:21:27] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/12 09:21:27] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/12 09:21:27] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/12 09:25:32] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/12 09:25:32] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/12 09:25:32] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 09:31:32] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 09:31:32] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/12 09:32:03] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/12 09:32:03] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/12 09:32:03] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 09:36:10] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 09:36:10] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/12 09:36:10] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/12 09:36:10] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/12 09:36:33] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/12 09:36:33] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/12 09:36:33] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 09:37:31] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 09:37:31] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/12 09:37:31] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/12 09:37:31] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/12 09:38:50] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/12 09:38:50] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/12 09:38:50] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 10:05:24] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 10:05:24] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 10:05:24] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 10:05:24] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 17:05:33] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 17:05:33] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 17:05:33] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 17:05:33] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:32:04] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:32:04] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:32:04] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:32:04] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:40:18] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:40:18] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:40:18] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:40:18] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:41:29] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:41:29] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:41:29] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:41:29] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:42:06] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:42:06] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:42:06] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:42:06] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:42:23] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:42:23] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:42:23] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:42:23] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:43:28] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:43:28] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:43:28] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:43:28] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:43:43] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:43:43] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:43:43] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:43:43] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:47:13] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:47:13] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:47:13] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:47:13] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:47:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:47:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:47:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:47:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:59:57] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 21:59:57] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 21:59:57] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 21:59:57] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:00:26] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/12 22:00:26] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/12 22:00:44] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/12 22:00:44] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/12 22:00:44] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [41] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/12 22:00:54] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 22:00:54] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:00:54] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 22:00:54] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:01:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 22:01:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:01:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 22:01:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:04:50] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 22:04:50] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:04:50] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 22:04:50] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 22:12:40] playlist.c:125: warn: Parsing playlists...
+[2016/02/12 22:12:40] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/12 23:42:44] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/12 23:42:44] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/12 23:42:44] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/12 23:42:44] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 01:11:19] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 01:11:19] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 01:11:19] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 01:11:19] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 01:24:56] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 01:24:56] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 01:24:56] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 01:24:56] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 10:23:40] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 10:23:40] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 10:23:40] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 10:23:40] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 16:28:03] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/13 16:28:03] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/13 16:28:27] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/13 16:28:27] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/13 16:28:27] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [42] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/13 16:32:53] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/13 16:32:53] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/13 16:32:53] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/13 16:32:53] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/13 16:33:17] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/13 16:33:17] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/13 16:33:17] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [42] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/13 16:37:32] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/13 16:37:32] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/13 16:37:32] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/13 16:37:32] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/13 16:38:11] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/13 16:38:11] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/13 16:38:11] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [42] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/13 16:42:28] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/13 16:42:28] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/13 16:42:28] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/13 16:42:28] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/13 16:42:51] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/13 16:42:51] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/13 16:42:51] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [42] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/13 16:47:27] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/13 16:47:27] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/13 16:47:27] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/13 16:47:27] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/13 16:50:45] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/13 16:50:45] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/13 16:50:45] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [42] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/13 18:50:53] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 18:50:53] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 18:50:53] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 18:50:53] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:38:23] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 21:38:23] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:38:23] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 21:38:23] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:39:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 21:39:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:39:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 21:39:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:40:13] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 21:40:13] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:40:13] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 21:40:13] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:40:52] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/13 21:40:52] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/13 21:40:52] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/13 21:40:52] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:24:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:24:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:24:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:24:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:26:20] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:26:20] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:26:20] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:26:20] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:28:09] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:28:09] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:28:09] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:28:09] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:29:15] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:29:15] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:29:15] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:29:15] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:30:09] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:30:09] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:30:09] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:30:09] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:31:11] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:31:11] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:31:11] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:31:11] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:32:51] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:32:51] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:32:51] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:32:51] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:35:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:35:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:35:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:35:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:36:54] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/14 10:36:54] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/14 10:36:54] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/14 10:36:54] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/14 10:37:12] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/14 10:37:12] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/14 10:37:12] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [43] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/14 10:37:20] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 10:37:20] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:37:20] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 10:37:20] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 10:42:19] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/14 12:43:35] playlist.c:125: warn: Parsing playlists...
+[2016/02/14 12:43:35] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/14 12:59:24] playlist.c:125: warn: Parsing playlists...
+[2016/02/14 12:59:24] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/14 13:23:53] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:23:53] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:23:53] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:23:53] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:25:08] playlist.c:125: warn: Parsing playlists...
+[2016/02/14 13:25:08] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/14 13:26:39] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:26:39] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:26:39] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:26:39] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:26:52] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/14 13:26:52] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/14 13:26:52] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/14 13:27:11] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/14 13:27:11] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/14 13:27:11] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [62] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/14 13:27:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:27:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:27:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:27:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:29:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:29:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:29:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:29:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:32:31] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:32:31] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:32:31] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:32:31] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:33:52] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:33:52] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:33:52] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:33:52] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:34:07] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/14 13:34:12] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 13:34:12] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 13:34:12] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 13:34:12] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:27:33] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 15:27:33] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:27:33] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 15:27:33] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:33:18] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 15:33:18] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:33:18] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 15:33:18] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:33:52] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/14 15:33:52] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/14 15:34:20] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/14 15:34:20] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/14 15:34:20] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [22] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/14 15:36:51] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/14 15:39:08] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 15:39:08] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:39:08] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 15:39:08] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:42:41] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 15:42:41] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:42:41] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 15:42:41] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:44:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 15:44:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 15:44:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 15:44:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 16:27:42] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/14 16:27:42] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/14 16:28:20] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/14 16:28:20] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/14 16:28:20] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [22] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/14 19:03:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 19:03:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 19:03:37] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 19:03:37] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 19:09:58] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 19:09:58] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 19:09:58] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 19:09:58] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 21:12:34] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/14 21:12:34] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 21:12:34] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/14 21:12:34] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/14 21:27:46] playlist.c:125: warn: Parsing playlists...
+[2016/02/14 21:27:46] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/15 21:26:36] playlist.c:125: warn: Parsing playlists...
+[2016/02/15 21:26:36] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/15 21:46:04] playlist.c:125: warn: Parsing playlists...
+[2016/02/15 21:46:04] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/16 18:17:41] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/16 18:17:41] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/16 18:17:41] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/16 18:17:41] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/16 22:57:09] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/16 23:00:59] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/16 23:00:59] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/16 23:01:18] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/16 23:01:18] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/16 23:01:18] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/16 23:03:51] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/16 23:03:51] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/16 23:03:51] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/16 23:03:51] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/16 23:04:08] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/16 23:04:08] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/16 23:04:08] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/16 23:10:50] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/16 23:10:50] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/16 23:11:19] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/16 23:11:19] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/16 23:11:19] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/16 23:18:31] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/16 23:18:31] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/16 23:18:31] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/16 23:18:31] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/16 23:19:55] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/16 23:19:55] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/16 23:19:55] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/16 23:19:55] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/17 17:43:46] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/17 17:45:01] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/17 17:45:01] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/17 17:45:20] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/17 17:45:20] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/17 17:45:20] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/17 18:05:54] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/17 18:05:54] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/17 18:05:54] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/17 18:05:54] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/17 18:06:43] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/17 18:06:43] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/17 18:06:43] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/17 18:15:38] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/17 18:15:38] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/17 18:15:38] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/17 18:15:38] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/17 18:23:11] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/17 18:23:11] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/17 18:23:11] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/17 18:23:11] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/17 18:23:30] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/17 18:23:30] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/17 18:23:30] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/17 18:41:38] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/17 18:41:38] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/17 18:41:38] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/17 18:41:38] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/17 20:39:20] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/17 20:39:20] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/17 20:39:20] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/17 20:39:20] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/17 20:39:38] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/17 20:39:38] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/17 20:39:38] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/18 00:07:06] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/18 00:07:06] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/18 00:07:06] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/18 00:07:06] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/18 00:09:32] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/18 00:09:32] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/18 00:09:32] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [25] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/18 15:50:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/18 15:50:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/18 15:50:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/18 15:50:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/18 19:17:03] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/18 19:17:03] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/18 19:17:03] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/18 19:17:21] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/18 19:17:21] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/18 19:17:21] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [26] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/18 20:44:11] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/18 20:44:11] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/18 20:44:11] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/18 20:44:11] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/19 08:18:48] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/19 08:18:48] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/19 08:19:27] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/19 08:19:27] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/19 08:19:27] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [26] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/19 08:21:14] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/19 08:21:14] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/19 08:21:14] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/19 08:21:14] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/19 08:21:34] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/19 08:21:34] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/19 08:21:34] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [26] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/19 08:59:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/19 08:59:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/19 08:59:17] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/19 08:59:17] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/19 15:00:45] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/19 15:00:45] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/19 15:00:45] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/19 15:00:45] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/21 01:05:46] playlist.c:125: warn: Parsing playlists...
+[2016/02/21 01:05:46] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/21 11:05:13] playlist.c:125: warn: Parsing playlists...
+[2016/02/21 11:05:13] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/21 18:04:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/21 18:04:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/21 18:04:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/21 18:04:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/21 21:31:43] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:31:43] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:31:43] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:31:43] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:32:57] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:32:57] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:32:57] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:33:26] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:33:26] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:35:45] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:35:45] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:35:45] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:36:08] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:36:08] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:36:08] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:36:08] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:37:16] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:37:16] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:37:16] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:38:12] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:38:12] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:38:12] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:38:12] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:38:48] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:38:48] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:38:48] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:40:53] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:40:53] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:40:53] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:40:53] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:41:18] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:41:18] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:41:18] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:47:34] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:47:34] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:47:34] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:47:34] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:49:27] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:49:27] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:49:27] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:50:05] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:50:05] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:50:05] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:50:05] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:50:23] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:50:23] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:50:23] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:51:00] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:51:00] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:51:00] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/21 21:51:00] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/21 21:51:41] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:51:41] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:51:41] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/21 21:51:51] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/21 21:51:51] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/21 21:52:13] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/21 21:52:13] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/21 21:52:13] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 00:20:40] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 00:20:40] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 00:20:40] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/22 00:20:40] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/22 00:24:29] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 00:24:29] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 00:24:29] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 00:25:05] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 00:25:05] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 00:25:22] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 00:25:22] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 00:25:22] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 00:56:42] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 00:56:42] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 00:56:42] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/22 00:56:42] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/22 00:57:57] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 00:57:57] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 00:57:57] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 01:00:54] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 01:00:54] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 01:00:54] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/22 01:00:54] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/22 01:01:29] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 01:01:29] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 01:01:29] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 01:02:20] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 01:02:20] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 01:02:20] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/22 01:02:20] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/22 16:47:32] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 16:47:32] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 16:47:32] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 16:47:54] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 16:47:54] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 16:47:54] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 16:48:43] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 16:48:43] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 16:48:43] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [30] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 22:36:06] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 22:36:06] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 22:36:28] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 22:36:29] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 22:36:29] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [31] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/22 23:58:25] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/22 23:58:25] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/22 23:58:25] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/22 23:58:25] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/22 23:58:44] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/22 23:58:44] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/22 23:58:44] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [31] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/23 17:19:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/23 17:19:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:19:32] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/23 17:19:32] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:28:39] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/23 17:28:39] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:28:39] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/23 17:28:39] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:35:00] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/23 17:35:00] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:35:00] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/23 17:35:00] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:35:36] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/23 17:35:36] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:35:36] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/23 17:35:36] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:36:14] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/23 17:36:14] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 17:36:14] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/23 17:36:14] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/23 18:33:15] playlist.c:125: warn: Parsing playlists...
+[2016/02/23 18:33:15] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/23 19:19:00] playlist.c:125: warn: Parsing playlists...
+[2016/02/23 19:19:00] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/23 19:23:18] playlist.c:125: warn: Parsing playlists...
+[2016/02/23 19:23:18] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/23 20:14:50] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/23 20:14:52] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/23 20:14:52] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/23 20:14:52] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [32] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/23 23:16:12] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/23 23:16:12] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/23 23:16:37] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/23 23:16:37] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/23 23:16:37] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [32] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/24 17:39:28] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/24 17:39:28] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/24 17:39:28] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/24 17:40:11] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/24 17:40:11] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/24 17:40:11] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [32] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/24 17:41:15] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/24 17:41:15] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/24 17:41:15] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/24 17:41:15] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/24 17:41:33] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/24 17:41:33] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/24 17:41:33] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [32] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/24 18:38:16] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/24 18:38:16] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/24 18:38:16] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/24 18:38:16] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/24 19:08:30] playlist.c:125: warn: Parsing playlists...
+[2016/02/24 19:08:30] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/24 22:53:14] minidlna.c:943: error: MiniDLNA is already running. EXITING.
+[2016/02/24 22:55:53] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/24 22:55:53] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/24 22:56:31] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/24 22:56:31] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/24 22:56:31] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/24 22:58:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/24 22:58:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/24 22:58:27] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/24 22:58:27] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/25 16:36:40] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/25 16:36:40] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/25 16:36:40] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/25 16:36:58] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 16:36:58] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 16:36:58] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+                                                                                                                                                                                                                                                                                      [2016/02/25 16:39:12] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 16:39:12] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 16:39:12] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/25 17:22:20] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/25 17:22:20] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/25 17:22:20] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/25 17:22:20] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/25 17:23:08] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 17:23:08] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 17:23:08] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/25 17:23:35] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/25 17:23:35] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/25 17:23:35] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/25 17:23:35] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/25 17:23:54] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 17:23:54] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 17:23:54] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+                                                                                                                                                                                                                                                                                                                                                            [2016/02/25 18:15:06] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 18:15:06] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 18:15:06] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/25 18:22:57] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/25 18:22:57] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/25 18:22:57] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/25 18:22:57] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/25 18:23:16] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/25 18:23:16] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/25 18:23:16] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [34] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/25 18:41:54] playlist.c:125: warn: Parsing playlists...
+[2016/02/25 18:41:54] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/26 08:15:58] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/26 08:15:58] minidlna.c:172: warn: received signal 1, re-read
+[2016/02/26 08:15:58] minissdp.c:84: error: setsockopt(udp, IP_ADD_MEMBERSHIP): Bad file descriptor
+[2016/02/26 08:15:58] minissdp.c:190: warn: Failed to add multicast membership for address 192.168.0.11
+[2016/02/26 08:16:19] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/26 08:16:19] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/26 08:16:19] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [35] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/26 19:55:04] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/26 19:55:04] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/26 19:55:04] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/26 19:55:04] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/27 21:58:33] minidlna.c:154: warn: received signal 15, good-bye
+[2016/02/27 21:58:44] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/02/27 21:58:44] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/02/27 21:58:44] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [28] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/02/28 15:17:46] playlist.c:125: warn: Parsing playlists...
+[2016/02/28 15:17:46] playlist.c:259: warn: Finished parsing playlists.
+[2016/02/28 20:27:54] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/28 20:27:54] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/28 20:27:54] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/28 20:27:54] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/29 16:39:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/29 16:39:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/29 16:39:30] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/29 16:39:30] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/29 17:40:07] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/02/29 17:40:07] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/02/29 17:40:07] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/02/29 17:40:07] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/03/01 08:17:17] minidlna.c:154: warn: received signal 15, good-bye
+[2016/03/01 08:17:17] minidlna.c:154: warn: received signal 15, good-bye
+[2016/03/01 08:17:17] minidlna.c:172: warn: received signal 1, re-read
+[2016/03/01 08:17:35] minidlna.c:1030: warn: Starting MiniDLNA version 1.1.5.
+[2016/03/01 08:17:35] minidlna.c:1070: warn: HTTP listening on port 8200
+[2016/03/01 08:17:35] inotify.c:198: warn: WARNING: Inotify max_user_watches [8192] is low or close to the number of used watches [47] and I do not have permission to increase this limit.  Please do so manually by writing a higher value into /proc/sys/fs/inotify/max_user_watches.
+[2016/03/01 17:50:41] playlist.c:125: warn: Parsing playlists...
+[2016/03/01 17:50:41] playlist.c:259: warn: Finished parsing playlists.
+[2016/03/02 22:18:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetSortExtensionCapabilities
+[2016/03/02 22:18:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
+[2016/03/02 22:18:47] upnpsoap.c:1997: warn: SoapMethod: Unknown: GetFeatureList
+[2016/03/02 22:18:47] upnpsoap.c:123: warn: Returning UPnPError 401: Invalid Action
