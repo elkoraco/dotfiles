@@ -6,10 +6,13 @@ export EDITOR=vim
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=1000
-setopt HIST_IGNORE_DUPS
-setopt HIST_IGNORE_SPACE
-setopt APPEND_HISTORY
-setopt EXTENDED_HISTORY
+setopt append_history
+setopt hist_expire_dups_first
+setopt hist_ignore_space
+setopt inc_append_history
+setopt share_history
+
+setopt extended_history
 
 #PATH
 
