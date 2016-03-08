@@ -1,6 +1,4 @@
-#EXPORTS
-export MPD_HOST=192.168.0.11
-export EDITOR=vim
+#HISTORY
 
 #HISTORY
 
@@ -13,10 +11,6 @@ setopt hist_ignore_space
 setopt inc_append_history
 setopt share_history
 setopt extended_history
-
-#PATH
-
-export PATH="$HOME/bin:${PATH}"
 
 #COMPLETION
 
@@ -51,13 +45,12 @@ bindkey "ee[C" forward-word
 bindkey "ee[D" backward-word
 bindkey "^H" backward-delete-word
 
-
 #PROMPT
 autoload -U promptinit
 promptinit
 autoload -U colors 
 colors
-PROMPT="%{$fg[white]$ %}%~%{$reset_color%} "
+PROMPT="%{$fg[red]# %}%~%{$reset_color%} "
 
 #LS COLORS
 export LSCOLORS="Gxfxcxdxbxegedabagacad"
@@ -81,15 +74,14 @@ then
   fi
 fi
 
-#ALIASES
 
-alias syu='sudo pacman -Syu'
-alias in='sudo pacman -S'
-alias rmv='sudo pacman -Rs'
-alias dlna='minidlnad -f /home/elkoraco/.config/minidlna/minidlna.conf -P /home/elkoraco/.config/minidlna/minidlna.pid'
-alias ssc='sudo systemctl'
+
+#ALIASES 
+
+alias syu='pacman -Syu'
+alias in='pacman -S'
+alias rmv='pacman -Rs'
 alias sc='systemctl'
-alias mp='mpd ~/.config/mpd/mpd.conf'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias -g ....='../../..'
@@ -97,7 +89,3 @@ alias -g .....='../../../..'
 alias -g ......='../../../../..'
 alias -g la='ls -al'
 alias ef='ps -ef | grep'
-alias -g bmi='burgaur -mi'
-alias -g bsi='burgaur -si'
-alias -g bsu='burgaur -su'
-alias -g cws='cower -s'
