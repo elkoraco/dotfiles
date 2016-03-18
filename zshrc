@@ -1,18 +1,17 @@
 #EXPORTS
 export MPD_HOST=192.168.0.11
 export EDITOR=vim
+export BURGAUR_FILE_MANAGER=ranger
 
 #HISTORY
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=1000
-setopt append_history
-setopt hist_expire_dups_first
-setopt hist_ignore_space
-setopt inc_append_history
-setopt share_history
-setopt extended_history
+setopt HIST_IGNORE_DUPS
+setopt HIST_IGNORE_SPACE
+setopt APPEND_HISTORY
+setopt EXTENDED_HISTORY
 
 #PATH
 
@@ -28,6 +27,16 @@ zstyle ':completion:*' menu select
 zstyle ':completion:*' matcher-list '' 'm:{[:lower:][:upper:]}={[:upper:][:lower:]}' '+l:|=* r:|=*'
 zstyle :compinstall filename '${HOME}/.zshrc'
 
+# HISTORY
+HISTFILE=$HOME/.zsh_history
+HISTSIZE=10000
+SAVEHIST=10000
+setopt append_history
+setopt hist_expire_dups_first
+setopt hist_ignore_space
+setopt inc_append_history
+setopt share_history
+
 # fix zsh annoying history behavior
 h() { if [ -z "$*" ]; then history 1; else history 1 | egrep "$@"; fi; }
 
@@ -39,6 +48,7 @@ bindkey '\eOA' up-line-or-beginning-search
 bindkey '\e[A' up-line-or-beginning-search
 bindkey '\eOB' down-line-or-beginning-search
 bindkey '\e[B' down-line-or-beginning-search
+
 bindkey "\e[3~" delete-char
 bindkey "e[1~" beginning-of-line
 bindkey "e[4~" end-of-line
@@ -50,6 +60,7 @@ bindkey "eOd" emacs-backward-word
 bindkey "ee[C" forward-word
 bindkey "ee[D" backward-word
 bindkey "^H" backward-delete-word
+path+=/home/elkoraco/bin
 
 
 #PROMPT
